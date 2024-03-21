@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Adnan Malik A.K.A Ady</h1>
+<h1 align="center">Hi 👋, I'm MD Adnan Zahid A.K.A Ady</h1>
 <h3 align="center">A Full Stack Developer in Exploit OverLords Group </h3>
 <img src="https://github.com/Adymalikx/Contributor-Credits/blob/main/Adymalikx.jpg" alt="Adymalikx" width="600" style="vertical-align: bottom;">
 
